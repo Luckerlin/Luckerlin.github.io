@@ -6,7 +6,7 @@
   <link href="http://blog.junewind.top/atom.xml" rel="self"/>
   
   <link href="http://blog.junewind.top/"/>
-  <updated>2023-07-23T13:51:25.222Z</updated>
+  <updated>2023-08-02T07:48:13.261Z</updated>
   <id>http://blog.junewind.top/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【Python 爬虫初级教程 02】爬取百度翻译查询英文单词</title>
+    <link href="http://blog.junewind.top/p/c2adb882/"/>
+    <id>http://blog.junewind.top/p/c2adb882/</id>
+    <published>2023-08-02T07:24:50.000Z</published>
+    <updated>2023-08-02T07:48:13.261Z</updated>
+    
+    
+    <summary type="html">爬取百度翻译查询英文单词</summary>
+    
+    
+    
+    <category term="Python" scheme="http://blog.junewind.top/categories/Python/"/>
+    
+    
+    <category term="爬虫" scheme="http://blog.junewind.top/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>普通高中教科书数学必修一中信息技术应用部分中的软件整理及 Python 代码分享</title>
     <link href="http://blog.junewind.top/p/c25746a5/"/>
     <id>http://blog.junewind.top/p/c25746a5/</id>
     <published>2023-07-23T13:51:00.000Z</published>
-    <updated>2023-07-23T13:51:25.222Z</updated>
+    <updated>2023-08-02T07:35:45.272Z</updated>
     
     
     <summary type="html">普通高中教科书数学必修一中信息技术应用部分中的软件整理及 Python 代码分享</summary>
@@ -34,11 +53,11 @@
   </entry>
   
   <entry>
-    <title>【Python 爬虫初级教程】手把手教你爬取12306网站列车车次信息</title>
+    <title>【Python 爬虫初级教程 01】手把手教你爬取12306网站列车车次信息</title>
     <link href="http://blog.junewind.top/p/152e2c7f/"/>
     <id>http://blog.junewind.top/p/152e2c7f/</id>
     <published>2023-03-20T13:45:43.000Z</published>
-    <updated>2023-07-16T12:59:55.171Z</updated>
+    <updated>2023-08-02T07:35:15.430Z</updated>
     
     
     <summary type="html">用 Python 爬取12306网站列车车次信息</summary>
@@ -152,7 +171,7 @@
     <link href="http://blog.junewind.top/p/45ffd488/"/>
     <id>http://blog.junewind.top/p/45ffd488/</id>
     <published>2022-08-26T10:42:43.000Z</published>
-    <updated>2023-05-21T10:45:50.824Z</updated>
+    <updated>2023-08-02T07:22:44.069Z</updated>
     
     
     <summary type="html">一言网，用心践行“用代码表达言语的魅力，用代码书写山河的壮丽”。</summary>

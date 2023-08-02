@@ -15,8 +15,29 @@
     <atom:link href="http://blog.junewind.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个有趣的博客</description>
-    <pubDate>Sun, 23 Jul 2023 13:51:25 GMT</pubDate>
+    <pubDate>Wed, 02 Aug 2023 07:48:13 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>【Python 爬虫初级教程 02】爬取百度翻译查询英文单词</title>
+      <link>http://blog.junewind.top/p/c2adb882/</link>
+      <guid>http://blog.junewind.top/p/c2adb882/</guid>
+      <pubDate>Wed, 02 Aug 2023 07:24:50 GMT</pubDate>
+      
+      <description>爬取百度翻译查询英文单词</description>
+      
+      
+      
+      
+      <category domain="http://blog.junewind.top/categories/Python/">Python</category>
+      
+      
+      <category domain="http://blog.junewind.top/tags/%E7%88%AC%E8%99%AB/">爬虫</category>
+      
+      
+      <comments>http://blog.junewind.top/p/c2adb882/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>普通高中教科书数学必修一中信息技术应用部分中的软件整理及 Python 代码分享</title>
@@ -38,7 +59,7 @@
     </item>
     
     <item>
-      <title>【Python 爬虫初级教程】手把手教你爬取12306网站列车车次信息</title>
+      <title>【Python 爬虫初级教程 01】手把手教你爬取12306网站列车车次信息</title>
       <link>http://blog.junewind.top/p/152e2c7f/</link>
       <guid>http://blog.junewind.top/p/152e2c7f/</guid>
       <pubDate>Mon, 20 Mar 2023 13:45:43 GMT</pubDate>
